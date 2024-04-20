@@ -1,0 +1,5 @@
+config:
+  name: suno-api
+  prefix: "/suno-api"
+  service_type: be
+  port: 3000
