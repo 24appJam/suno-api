@@ -2,4 +2,6 @@ config:
   name: suno-api
   prefix: "/suno-api"
   service_type: be
-  port: 3000
+  domain:
+    prod: suno-api.xquare.app
+    stag: suno-api-stag.xquare.app
